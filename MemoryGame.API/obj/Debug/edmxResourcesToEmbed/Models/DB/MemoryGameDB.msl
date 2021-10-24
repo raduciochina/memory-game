@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MemoryGameModelStoreContainer" CdmEntityContainer="MemoryGameEntities">
+    <EntitySetMapping Name="Challengers">
+      <EntityTypeMapping TypeName="MemoryGameModel.Challenger">
+        <MappingFragment StoreEntitySet="Challenger">
+          <ScalarProperty Name="ChallengerID" ColumnName="ChallengerID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ranks">
+      <EntityTypeMapping TypeName="MemoryGameModel.Rank">
+        <MappingFragment StoreEntitySet="Rank">
+          <ScalarProperty Name="RankID" ColumnName="RankID" />
+          <ScalarProperty Name="ChallengerID" ColumnName="ChallengerID" />
+          <ScalarProperty Name="Best" ColumnName="Best" />
+          <ScalarProperty Name="DateAchieved" ColumnName="DateAchieved" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

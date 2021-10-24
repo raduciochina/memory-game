@@ -1,0 +1,15 @@
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\bin\Debug\netstandard2.0\Memory Game App.deps.json
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\bin\Debug\netstandard2.0\Memory Game App.dll
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\bin\Debug\netstandard2.0\ref\Memory Game App.dll
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\bin\Debug\netstandard2.0\Memory Game App.pdb
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\obj\Debug\netstandard2.0\Memory Game App.csproj.AssemblyReference.cache
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\obj\Debug\netstandard2.0\Memory Game App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\obj\Debug\netstandard2.0\Memory Game App.AssemblyInfoInputs.cache
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\obj\Debug\netstandard2.0\Memory Game App.AssemblyInfo.cs
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\obj\Debug\netstandard2.0\Memory Game App.csproj.CoreCompileInputs.cache
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\obj\Debug\netstandard2.0\Memory Game App.dll
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\obj\Debug\netstandard2.0\ref\Memory Game App.dll
+C:\Users\cioch\Desktop\Memory Game\Memory Game\Memory Game\obj\Debug\netstandard2.0\Memory Game App.pdb
